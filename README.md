@@ -1,4 +1,3 @@
-# Particel network script
+# Web3  script
 
-这是一个python脚本，分别率默认为1980*1020
-所有参数都可以在config里设置，包括停顿时间等等，如有需要请自取
+这里是各个 空投项目可以用脚本撸的
