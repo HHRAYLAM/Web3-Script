@@ -1,0 +1,31 @@
+{
+  "elementCursors": {
+    "1920": {
+      "1080": {
+        "wallet": { "x": 1855, "y": 950 },
+        "sendBtn1": { "x": 1355, "y": 503 },
+        "addressBook": { "x": 1740, "y": 420 },
+        "firstAddress": { "x": 1440, "y": 274 },
+        "amount": { "x": 1400, "y": 565 },
+        "sendBtn2": { "x": 1440, "y": 889 },
+        "verifyBtn": { "x": 1578, "y": 850 },
+        "sign": { "x": 1800, "y": 820 }
+      }
+    }
+  },
+  "stepWaitTime": {
+    "openWallet": 2000,
+    "send": 2000,
+    "addressBook": 1000,
+    "selectAddress": 1000,
+    "amount": 1000,
+    "send2": 15000,
+    "send3": 15000,
+    "verify": 2000,
+    "sign": 2000,
+    "refresh": 5000
+  },
+  "repeatTimes": 100,
+  "amount": 0.0001,
+  "verify": true
+}
